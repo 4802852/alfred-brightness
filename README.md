@@ -1,15 +1,15 @@
 # alfred-brightness
 
-Alfred Workflow for setting Display Brightness.
+Alfred Workflow to set Display Brightness.
 
-This is modified version of **alfred-brightness** by fniephaus (https://github.com/fniephaus/alfred-brightness). Because it is not working since macos 12.3, I made a new one based on **brightness** by nriley (https://github.com/nriley/brightness) and **alfred workflow py3** by NorthIsUp (https://github.com/NorthIsUp/alfred-workflow-py3)
+Only tested at Monteray 12.6 and Alfred 5 with no Python 2 env.
+
+This is modified version of **alfred-brightness** by fniephaus (https://github.com/fniephaus/alfred-brightness), based on **brightness** by nriley (https://github.com/nriley/brightness) and **alfred workflow py3** by NorthIsUp (https://github.com/NorthIsUp/alfred-workflow-py3).
 
 Thanks to all of them!
 
-You can use all function of alfred-brightness workflow by fniephaus including current brightness.
+This is made because fniepahus version didn't work since macOS 12.3 because it only works based on Python 2.
 
-If you want some guide to use this workflow, visit fniepahus.
-
-This is only tested at Monteray 12.6 and Alfred 5.
+You can use all functions of alfred-brightness workflow by fniephaus including current brightness. If you want some guide to use this workflow, visit fniepahus.
 
 If you have any issue, please let me know.
