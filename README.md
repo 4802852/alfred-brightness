@@ -10,6 +10,6 @@ Thanks to all of them!
 
 This is made because fniepahus version didn't work since macOS 12.3 because it only works based on Python 2.
 
-You can use all functions of alfred-brightness workflow by fniephaus including current brightness. If you want some guide to use this workflow, visit fniepahus.
+You can use all functions of alfred-brightness workflow by fniephaus including current brightness. If you want some guide to use this workflow, visit fniephaus.
 
 If you have any issue, please let me know.
