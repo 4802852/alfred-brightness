@@ -13,3 +13,16 @@ This is made because fniepahus version didn't work since macOS 12.3 because it o
 You can use all functions of alfred-brightness workflow by fniephaus including current brightness. If you want some guide to use this workflow, visit fniephaus.
 
 If you have any issue, please let me know.
+
+## Simple Guide
+
+1. Download .alfredworkflow file.
+2. Import it.
+3. Use it by keword 'br'.
+   1. Select preset choice. (0, 20, 40, 60, 80, 100)
+   2. br 100 &rarr; set brightness 100%
+   3. br 50 &rarr; set brightness 50%
+   4. ....
+
+Enjoy it!
+        
